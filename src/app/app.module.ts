@@ -21,6 +21,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { CommentDetailComponent } from './comment-detail/comment-detail.component';
 import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 @NgModule({
   declarations: [
@@ -44,6 +45,7 @@ import { FormsModule } from '@angular/forms';
     MatCardModule,
     MatFormFieldModule,
     MatSliderModule,
+    MatGridListModule,
     MatSlideToggleModule,
     MatButtonToggleModule,
     MatSelectModule,

@@ -19,3 +19,26 @@ th {
 .mat-button {
    background: grey;
 }
+
+.mat-column-id {
+   width: 5% !important;
+}
+
+.mat-column-userId {
+   width: 5% !important;
+}
+
+.mat-column-title {
+   width: 30% !important;
+}
+
+.mat-column-body {
+   width: 50% !important;
+}
+
+.mat-column-actions {
+   width: 5% !important;
+}
+h1 {
+   font-weight: 300;
+}
